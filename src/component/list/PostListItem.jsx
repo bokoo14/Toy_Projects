@@ -1,5 +1,5 @@
 import React from "react";
-import styled from "styled-component";
+import styled from "styled-components";
 
 const Wrapper = styled.div`
   width: cal(100%-32px);

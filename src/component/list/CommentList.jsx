@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import CommentListItem from "./CommetListItem";
+import CommentListItem from "./CommentListItem";
 
 const Wrapper = styled.div`
   display: flex;
