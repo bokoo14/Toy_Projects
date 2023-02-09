@@ -1,3 +1,7 @@
+# DiceGame
+Toy Project using React
+
+---------------------------------------------------------
 # My_Blog
 Toy project using React 
 
@@ -36,4 +40,12 @@ src
      
  ## Data
  실제 백엔드를 대신할 가짜 데이터 이용  
- data.json파일을 사용하여 mock data사용  
+ data.json파일을 사용하여 mock data사용 
+
+---------------------------------------------------------
+ # Rock_Paper_Scissors
+Toy Project using React
+
+---------------------------------------------------------
+# Word chain
+Toy Project using React
